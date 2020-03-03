@@ -1,3 +1,9 @@
+---
+title: "Welcome to Jekyll!"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MovableBro/movablebro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
